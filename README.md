@@ -1,7 +1,7 @@
 ### 👋 안녕하세요, 강명근입니다
 ###
-현재 한국공학대학교 컴퓨터공학과 4학년 재학 중입니다  
-웹 프론트엔드 개발을 주로 공부하고 있습니다<br/><br/>
+현재 한국공학대학교 컴퓨터공학과 4학년 휴학 중입니다  
+웹 프론트엔드/백엔드 개발을 공부하고 있습니다<br/><br/>
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/></a>
 nicholas00105@gmail.com   
 ### 기술 스택
